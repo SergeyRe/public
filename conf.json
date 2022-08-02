@@ -3,7 +3,7 @@
     "conjunction": false,
                                   "sort": []
         },
-        "manufacturer":{"title":"manufacturer",
+        "manufacturer":{"title":"manufacturer"},
                        "subcategory":{"title":"subcategory","sort":[]}
     }
 }
