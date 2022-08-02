@@ -1,7 +1,7 @@
 { "aggregations": { "category": { "title": "category",
     "size": 100,
     "conjunction": false,
-                                  "sort": ["Газовые горелки и паяльники","Зарядные устройства"]
+                                  "sort": []
         },
         "manufacturer":{"title":"manufacturer"}
     }
