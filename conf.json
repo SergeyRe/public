@@ -1,9 +1,9 @@
-{ "aggregations": { "category": { "title": "category",
+{ "aggregations": { "category": { "title": "category","hide_zero_doc_count":true,
     "size": 100,
     "conjunction": false,
-                                  "sort": []
+                                  "sort": [],"hide_zero_doc_count":true
         },
         "manufacturer":{"title":"manufacturer"},
-                       "subcategory":{"title":"subcategory","sort":[],"size": 100}
+                       "subcategory":{"title":"subcategory","sort":[],"size": 100,"hide_zero_doc_count":true}
     }
 }
