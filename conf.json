@@ -4,6 +4,6 @@
                                   "sort": []
         },
         "manufacturer":{"title":"manufacturer"},
-                       "subcategory":{"title":"subcategory","sort":[]}
+                       "subcategory":{"title":"subcategory","sort":[],"size": 100}
     }
 }
