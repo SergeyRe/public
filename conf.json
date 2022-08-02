@@ -1,6 +1,7 @@
 { "aggregations": { "category": { "title": "category",
     "size": 100,
-    "conjunction": false
+    "conjunction": false,
+                                  sort: ['key']
         },
         "manufacturer":{"title":"manufacturer"}
     }
