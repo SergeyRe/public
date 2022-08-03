@@ -7,14 +7,7 @@
             "sort": [],
             "hide_zero_doc_count": true
         },
-        "subcategory": {
-            "title": "subcategory",
-            "sort": [],
-            "size": 100,
-            "conjunction": false,
-            "hide_zero_doc_count": true
-        },
-        "manufacturer": {
+             "manufacturer": {
             "title": "manufacturer",
             "hide_zero_doc_count": true,
             "size": 100
