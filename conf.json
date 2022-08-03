@@ -1,9 +1,24 @@
-{ "aggregations": { "category": { "title": "category","hide_zero_doc_count":true,
-    "size": 100,
-    "conjunction": false,
-                                  "sort": [],"hide_zero_doc_count":true
+{
+    "aggregations": {
+        "category": {
+            "title": "category",
+            "hide_zero_doc_count": true,
+            "size": 100,
+            "conjunction": false,
+            "sort": [],
+            "hide_zero_doc_count": true
         },
-        "manufacturer":{"title":"manufacturer"},
-                       "subcategory":{"title":"subcategory","sort":[],"size": 100,"hide_zero_doc_count":true}
+        "subcategory": {
+            "title": "subcategory",
+            "sort": [],
+            "size": 100,
+            "conjunction": false,
+            "hide_zero_doc_count": true
+        },
+        "manufacturer": {
+            "title": "manufacturer",
+            "hide_zero_doc_count": true,
+            "size": 100
+        }
     }
 }
