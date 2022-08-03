@@ -2,7 +2,6 @@
     "aggregations": {
         "category": {
             "title": "category",
-            "hide_zero_doc_count": true,
             "size": 100,
             "conjunction": false,
             "sort": [],
