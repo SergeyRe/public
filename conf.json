@@ -7,10 +7,13 @@
             "sort": [],
             "hide_zero_doc_count": true
         },
-             "manufacturer": {
+        "manufacturer": {
             "title": "manufacturer",
             "hide_zero_doc_count": true,
             "size": 100
         }
-    }
+    },
+    "searchableFields": [
+        "productName"
+    ]
 }
