@@ -19,8 +19,11 @@
     ],
     "sortings": {
         "bySortCode": {
-            "field": "sortCode",
+            "field": "id",
             "order": "asc"
         }
-    }
+    },
+  native_search_enabled: false,
+  custom_id_field: 'istcode'
+    
 }
