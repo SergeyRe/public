@@ -14,9 +14,6 @@
         },
         "inStock": {}
     },
-    "searchableFields": [
-        "productName"
-    ],
     "sortings": {
         "bySortCode": {
             "field": "id",
