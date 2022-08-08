@@ -16,7 +16,7 @@
     },
     "sortings": {
         "bySortCode": {
-            "field": "id",
+            "field": "sortcode",
             "order": "asc"
         }
     },
