@@ -20,7 +20,6 @@
             "order": "asc"
         }
     },
-  "native_search_enabled": false,
-  "custom_id_field": "istcode"
+  "native_search_enabled": false
     
 }
