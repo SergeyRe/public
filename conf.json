@@ -10,7 +10,8 @@
         "manufacturer": {
             "title": "manufacturer",
             "hide_zero_doc_count": true,
-            "size": 100
+            "size": 100,
+            "conjunction": false
         },
         "inStock": {}
     },
