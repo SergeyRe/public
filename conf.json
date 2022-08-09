@@ -12,7 +12,7 @@
             "hide_zero_doc_count": true,
             "size": 100,
             "conjunction": false,
-            "chosen_filters_on_top": false,
+            "chosen_filters_on_top": true,
             "hide_zero_doc_count": false
         },
         "inStock": {}
