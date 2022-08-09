@@ -5,7 +5,7 @@
             "size": 100,
             "conjunction": false,
             "sort": [],
-            "hide_zero_doc_count": false
+            "hide_zero_doc_count": true
         },
         "manufacturer": {
             "title": "manufacturer",
