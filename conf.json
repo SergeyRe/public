@@ -5,14 +5,14 @@
             "size": 100,
             "conjunction": false,
             "sort": [],
-            "hide_zero_doc_count": true
+            "hide_zero_doc_count": false
         },
         "manufacturer": {
             "title": "manufacturer",
             "size": 100,
             "conjunction": false,
             "chosen_filters_on_top": false,
-            "hide_zero_doc_count": true
+            "hide_zero_doc_count": false
         },
         "inStock": {}
     },
