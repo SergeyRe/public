@@ -11,7 +11,7 @@
             "title": "manufacturer",
             "size": 100,
             "conjunction": false,
-            "chosen_filters_on_top": true,
+            "chosen_filters_on_top": false,
             "hide_zero_doc_count": true
         },
         "inStock": {}
