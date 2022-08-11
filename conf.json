@@ -14,7 +14,7 @@
             "chosen_filters_on_top": false,
             "hide_zero_doc_count": false
         },
-        "inStock": {"sort": ['key']}
+        "inStock": {"sort": ["key"]}
     },
     "sortings": {
         "bySortCode": {
