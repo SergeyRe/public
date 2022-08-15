@@ -22,11 +22,11 @@
             "order": "asc"
         },
         "price_asc":{
-            "field: "price",
-            "order: "asc"},
+            "field": "price",
+            "order": "asc"},
          "price_desc":{
-            "field: "price",
-            "order: "desc"}
+            "field": "price",
+            "order": "desc"}
     },
   "native_search_enabled": false
     
